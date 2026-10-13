@@ -127,10 +127,3 @@ The main outputs include:
 
 The complete economic interpretation is available in `texte_eco.docx`, while `Presentation.pdf` provides a summary of the study.
 
-## Author
-
-**Benjamin Bey**
-
-Engineering Student in Applied Mathematics and Computer Science at CY Tech.
-
-GitHub: [Benji-7810](https://github.com/Benji-7810)
