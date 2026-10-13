@@ -64,7 +64,6 @@ The repository is organized into the following directories:
 **Additional documents**
 
 - `Presentation.pdf` — Project presentation.
-- `texte_eco.docx` — Written economic analysis.
 - `README.md` — Project documentation.
 
 ## Installation
